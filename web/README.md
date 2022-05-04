@@ -31,16 +31,23 @@
 - https://tailwindcss.com/
 
 - npm install -D tailwindcss
-
 - npx tailwindcss init
 
 
-### Copiar o colar o trecho de codigo no seu projeto.
+### Copiar e colar o trecho de codigo no seu projeto.
 - no arquivo tailwind.config.js
 - content: ["./src/**/*.{html,js}"],
 
-- nesse caso!
+- Nesse caso, Utilizar .tsx!
 - content: ["./src/**/*.tsx"],
+
+### Criar um arquivo para colar o trecho de codigo.
+- global.css
+
+- code
+- @tailwind base;
+- @tailwind components;
+- @tailwind utilities;
 
 
 
