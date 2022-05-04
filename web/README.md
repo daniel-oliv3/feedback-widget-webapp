@@ -50,6 +50,11 @@
 - @tailwind utilities;
 
 
+### Re-instalando o tailwind css.
+- criará o arquivo postcss.config.js
+
+- npx tailwindcss init -p
+- npm install -D tailwindcss postcss autoprefixer
 
 
 
