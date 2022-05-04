@@ -19,7 +19,7 @@
 - npm create vite@latest
 
 
-### Iniciar o NPM
+### Iniciar o NPM.
 - npm install
 
 
@@ -27,9 +27,31 @@
 - npm run dev
 
 
-### Tailwind CSS 
+### Instalando o Tailwind CSS. 
 - https://tailwindcss.com/
 
 - npm install -D tailwindcss
 
 - npx tailwindcss init
+
+
+### Copiar o colar o trecho de codigo no seu projeto.
+- no arquivo tailwind.config.js
+- content: ["./src/**/*.{html,js}"],
+
+- nesse caso!
+- content: ["./src/**/*.tsx"],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
