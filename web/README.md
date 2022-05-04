@@ -56,6 +56,12 @@
 - npx tailwindcss init -p
 - npm install -D tailwindcss postcss autoprefixer
 
+### Icons, Icones.
+- https://phosphoricons.com/
+- https://github.com/phosphor-icons/phosphor-home
+
+
+
 
 
 
