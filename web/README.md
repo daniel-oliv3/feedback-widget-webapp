@@ -3,3 +3,6 @@
 
 ### Iniciar o NPM
 - npm install
+
+### Rodar o projeto.
+- npm run dev
