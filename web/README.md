@@ -72,10 +72,10 @@
 
 
 ### Instalando o Headless UI.
-# npm
+### npm
 - npm install @headlessui/react
 
-# Yarn
+### Yarn
 - yarn add @headlessui/react
 
 
