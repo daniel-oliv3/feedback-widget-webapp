@@ -29,3 +29,7 @@
 
 ### Tailwind CSS 
 - https://tailwindcss.com/
+
+- npm install -D tailwindcss
+
+- npx tailwindcss init
