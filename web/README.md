@@ -60,8 +60,8 @@
 - https://phosphoricons.com/
 - https://github.com/phosphor-icons/phosphor-home
 
-
-
+### Instalar o Phosphor-React
+- npm install phosphor-react
 
 
 
